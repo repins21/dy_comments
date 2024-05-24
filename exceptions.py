@@ -1,0 +1,4 @@
+
+
+class StopCrawler(Exception):
+    pass
